@@ -4,7 +4,7 @@
 
 ## **Supercook**
 <img src="./supercook.png" width="50%">
-*https://www.supercook.com/#/recipes*
+<p> https://www.supercook.com/#/recipes </p>
 <p> The website's purpose can be easily understood. It allows for its users to search up recipes using what they already have and shows many recipe options. However, the list to choose food items can be super long, making it hard to find ingredients one already has. </p>
 
 ### **Heuristics**
@@ -17,6 +17,6 @@
 
 ## **MyFridgeFood**
 <img src="./myfridgefood.png" width="50%">
-*https://myfridgefood.com/*
+<p> https://myfridgefood.com/ </p>
 <p> The website can be used easily, with users being able to add ingredients. However, it is a little messy, making it hard to look for the recipes. </p>
 ### **Heuristics**
