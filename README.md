@@ -9,5 +9,5 @@
 
 
 #### **MyFridgeCook**
-<img src="./myfridgefood.png” width="50%">
+<img src="./myfridgecook.png" width="50%">
 <p> https://myfridgefood.com/ </p>
