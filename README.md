@@ -9,14 +9,12 @@
 
 ### **Heuristics**
 **1 Visibility of system status**
-<p> Rating: 1 </p>
-<p> - Once the user selects the ingredient, a green checkmark appears, showing that the ingredient is selected. </p>
-<p> - When the ingredient category is expanded, the + that was originally there becomes a - . </p>
-<p> - After clicking the ingredients, there isn't anything that indicates a loading screen. </p>
-**2 Match between system and the real world**
+Rating: 1   
+- Once the user selects the ingredient, a green checkmark appears, showing that the ingredient is selected.
+- When the ingredient category is expanded, the + that was originally there becomes a - .
+- After clicking the ingredients, there isn't anything that indicates a loading screen.
 
 ## **MyFridgeFood**
 <img src="./myfridgefood.png" width="50%">
 <p> https://myfridgefood.com/ </p>
 <p> The website can be used easily, with users being able to add ingredients. However, it is a little messy, making it hard to look for the recipes. </p>
-### **Heuristics**
