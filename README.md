@@ -9,10 +9,13 @@
 
 ### **Heuristics**
 **1 Visibility of system status**
+
 Rating: 1   
 - Once the user selects the ingredient, a green checkmark appears, showing that the ingredient is selected.
 - When the ingredient category is expanded, the + that was originally there becomes a - .
 - After clicking the ingredients, there isn't anything that indicates a loading screen.
+
+**2 Match between system and the real world**
 
 ## **MyFridgeFood**
 <img src="./myfridgefood.png" width="50%">
