@@ -107,7 +107,7 @@ The website can be used easily, with users being able to add ingredients. Howeve
 **5 Error prevention**
 
 *Rating: 1*
-- When there are no results, the website says "No results found." However, it does not offer suggestions as to what one should do. 
+- The ingredients list on the right tell you when there are no ingredients checked. Thus, the user won't go into the recipe list thinking they chose ingredients and not find any recipes, preventing this error.
 
 **6 Recognition rather than recall**
 
@@ -116,8 +116,8 @@ The website can be used easily, with users being able to add ingredients. Howeve
 
 **7 Flexibility and efficiency of use**
 
-*Rating:1*
-- 
+*Rating: 0*
+- There is a clear all button by the side, which makes it faster to remove all the ingredients instead of removing all the ingredients one by one. 
 
 **8 Aesthetic and minimalist design**
 
@@ -128,7 +128,7 @@ The website can be used easily, with users being able to add ingredients. Howeve
 **9 Help users recognize, diagnose, and recover from errors**
 
 *Rating: 1*
-- 
+- When there are no results, the website says "No results found." However, it does not offer suggestions as to what one should do. 
 
 
 **10 Help and documentation**
