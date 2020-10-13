@@ -77,7 +77,8 @@ The website's purpose can be easily understood. It allows for its users to searc
 ## **MyFridgeFood**
 <img src="./myfridgefood.png" width="50%">
 https://myfridgefood.com/
-The website can be used easily, with users being able to add ingredients. However, it is a little messy, making it hard to look for the recipes.
+
+The website can be used easily, with users being able to add ingredients. However, it is a little confusing once getting into the recipe page, as I was not sure how to edit the ingredients I input earlier. Additionally, the descriptions of the dishes are pretty random. 
 
 ### **Heuristics**
 **1 Visibility of system status**
