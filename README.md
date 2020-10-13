@@ -1,13 +1,13 @@
 # Website for recipes using already bought groceries
 ### Stephanie Chang - DH150 Advanced Topics in Digital Humanities: User Experience Design
-*I want to create a website that increases convenience for middle-aged women, where they can select ingredients they already have and find recipes.*  
+*I want to create a website that increases convenience for middle-aged women for cooking. The users can select ingredients they already have and find recipes for dishes to make using those recipes. Additionally, they can filter through dishes using dietary preferences.*  
 
 ## **Supercook**
 <img src="./supercook.png" width="50%">
 
 https://www.supercook.com/#/recipes
 
-The website's purpose can be easily understood. It allows for its users to search up recipes using what they already have and shows many recipe options. However, the list to choose food items can be super long, making it hard to find ingredients one already has. </p>
+The website's purpose can be easily understood. It allows for its users to search up recipes using what they already have and shows many recipe options. However, the list to choose food items can be super long, making it hard to find ingredients one already has. Also, it is a little hard to read through the different recipes, as there isn't type hierachy and some recipe titles are cut off. 
 
 ### **Heuristics**
 **1 Visibility of system status**
