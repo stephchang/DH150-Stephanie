@@ -92,6 +92,7 @@ The website can be used easily, with users being able to add ingredients. Howeve
 *Rating: 0*
 - When clicking into the recipe, the page is similar to that of a recipe book. Because it is familiar, the experience on the site is more enjoyable. 
 - The ingredients list on the right has a X over it, which is similar to other signals of delete in real life. Because there is a match between the system and the real world, one knows that clicking on the text means teh text will remove the ingredient fromt he list.
+- The language is easy to understand.
 
 **3 User control and freedom**
 
