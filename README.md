@@ -95,9 +95,9 @@ The website can be used easily, with users being able to add ingredients. Howeve
 
 **3 User control and freedom**
 
-*Rating: 3*
+*Rating: 1*
 - On the ingredients list on the right side, when one hovers over the ingredients, the text becomes red, signifying that pressing the text will remove the ingredient from the list.
-- When one wants to add more ingredients, there is no way to do so once already searching for recipes.
+- After selecting ingredients and pressing "Find Recipes," there isn't a clear way on how to go back to select or remove ingredients.
 
 **4 Consistency and standards**
 
@@ -116,24 +116,27 @@ The website can be used easily, with users being able to add ingredients. Howeve
 
 **7 Flexibility and efficiency of use**
 
-*Rating: 0*
+*Rating: 3*
 - There is a clear all button by the side, which makes it faster to remove all the ingredients instead of removing all the ingredients one by one. 
+- When one wants to add more or remove ingredients, there is no way to do so once already searching for recipes.
 
 **8 Aesthetic and minimalist design**
 
-*Rating: 2*
+*Rating: 3*
 - When there is no photo available, an image telling people to enter a contest is used instead. This shows some irrelevant information that users may not be looking for. 
 - On the front page, the top banner alternates between the homepage banner and a banner about entering a contest. This crowds up the website with irrelevant information.
+- The recipe cards go into very detailed nutritional facts, which may be irrelevant to some users. Thus, the amount of text makes it hard for users to find information.
+- The description is not very helpful when choosing what recipe one wants to make. 
 
 **9 Help users recognize, diagnose, and recover from errors**
 
 *Rating: 1*
 - When there are no results, the website says "No results found." However, it does not offer suggestions as to what one should do. 
 
-
 **10 Help and documentation**
 
 *Rating: 0*
 - The buttons state what the action is leading to, providing help to the user of the website.
+- A related tips button exists on certain recipe pages, which allows users to get help when making a recipe.
 
 
