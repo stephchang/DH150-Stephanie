@@ -56,7 +56,7 @@ The website's purpose can be easily understood. It allows for its users to searc
 
 **8 Aesthetic and minimalist design**
 
-*Rating: 1*
+*Rating: 2*
 - The website is not completely focused on the essentials, showing some irrelevant information, such as the logo on each recipe card and website the recipe is on. Because there is so much going on, it may be hard to pinpoint what is important and what is not.
 - The photos on the website are sometimes too blurry to get the message of what the recipe will make across, making it difficult for users to navigate the site.
 
@@ -76,5 +76,64 @@ The website's purpose can be easily understood. It allows for its users to searc
 
 ## **MyFridgeFood**
 <img src="./myfridgefood.png" width="50%">
-<p> https://myfridgefood.com/ </p>
-<p> The website can be used easily, with users being able to add ingredients. However, it is a little messy, making it hard to look for the recipes. </p>
+https://myfridgefood.com/
+The website can be used easily, with users being able to add ingredients. However, it is a little messy, making it hard to look for the recipes.
+
+### **Heuristics**
+**1 Visibility of system status**
+
+*Rating: 0*
+- When hovering over the ingredients, the website enlarges the box, indicating which one you are about to select.
+- Once the ingredient is selected, a green checkmark appears to indicate the ingredient has already been selected.
+- The site clearly shows the ingredients chosen by the right side. 
+
+**2 Match between system and the real world**
+
+*Rating: 0*
+- When clicking into the recipe, the page is similar to that of a recipe book. Because it is familiar, the experience on the site is more enjoyable. 
+- The ingredients list on the right has a X over it, which is similar to other signals of delete in real life. Because there is a match between the system and the real world, one knows that clicking on the text means teh text will remove the ingredient fromt he list.
+
+**3 User control and freedom**
+
+*Rating: 3*
+- On the ingredients list on the right side, when one hovers over the ingredients, the text becomes red, signifying that pressing the text will remove the ingredient from the list.
+- When one wants to add more ingredients, there is no way to do so once already searching for recipes.
+
+**4 Consistency and standards**
+
+*Rating: 0*
+- There is internal consistency, as the call to action buttons are green. This allows the user to clearly know which buttons can be clicked to perform an action.
+
+**5 Error prevention**
+
+*Rating: 1*
+- When there are no results, the website says "No results found." However, it does not offer suggestions as to what one should do. 
+
+**6 Recognition rather than recall**
+
+*Rating: 0*
+- The user can create an account and log in to bookmark the recipe.
+
+**7 Flexibility and efficiency of use**
+
+*Rating:1*
+- 
+
+**8 Aesthetic and minimalist design**
+
+*Rating: 2*
+- When there is no photo available, an image telling people to enter a contest is used instead. This shows some irrelevant information that users may not be looking for. 
+- On the front page, the top banner alternates between the homepage banner and a banner about entering a contest. This crowds up the website with irrelevant information.
+
+**9 Help users recognize, diagnose, and recover from errors**
+
+*Rating: 1*
+- 
+
+
+**10 Help and documentation**
+
+*Rating: 0*
+- The buttons state what the action is leading to, providing help to the user of the website.
+
+
