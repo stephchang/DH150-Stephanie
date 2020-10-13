@@ -23,6 +23,7 @@ The website's purpose can be easily understood. It allows for its users to searc
 *Rating: 0*
 - The language is easy to understand. 
 - Information is presented in a natural and logical way, with the website saying to choose ingredients first.
+- The website is okay for my evaluation because the site is easy to understand and logical. 
 
 **3 User control and freedom**
 
