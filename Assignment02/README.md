@@ -11,7 +11,7 @@ After conducting heuristic evaluation, a number of usability issues stood out to
 ## Methodology
 In order to confirm my evaluations, I conducted a usability test in order to find out how to improve the website from the user's perspective, using certain tasks to see how users navigate the site. The UT will test the effectiveness, efficiency, and satisfaction of the site. 
 
-My three tasks were:
+**My three tasks were:**
 1. Find a dish using ingredients you already have
 2. Find out if you can make a certain type of dish after updating your ingredients list
 3. Bookmark a dish after adding ingredients Supercook suggests
