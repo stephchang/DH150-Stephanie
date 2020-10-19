@@ -1,4 +1,4 @@
-# Website for recipes using already bought groceries
+# Assignment 01- Heuristic Evaluation
 ### Stephanie Chang - DH150 Advanced Topics in Digital Humanities: User Experience Design
 *I want to create a website that increases convenience for middle-aged women for cooking. The users can select ingredients they already have and find recipes for dishes to make using those recipes. Additionally, they can filter through dishes using dietary preferences.*  
 
