@@ -30,7 +30,7 @@ The goal of the activity is to cook a meal with ingredients the user already has
 Here is the interview script. [Click here to access the script.](https://docs.google.com/document/d/1UB_QHmfdC72D2gSgNX6qvveQ_t6LHpPst6NGtQh4uzg/edit?usp=sharing)
 
 ## Step05: Conducting the Research
-Here is the transcription of the interview and participatory ovservation. [Click here to access transcription.](
+Here is the transcription of the interview and participatory ovservation. [Click here to access transcription.](https://drive.google.com/file/d/1kLHV-QficGvLWPEDz-IagFpzoI4yd2Bq/view?usp=sharing)
 Here is the recording video of the interview and participatory observation. [Click here to access recording of video.] (https://drive.google.com/file/d/1azUsnPO9xbbrs-OguVfbfQc9fO5n6AGR/view?usp=sharing)
 
 ### Here are some insights from the interview:
