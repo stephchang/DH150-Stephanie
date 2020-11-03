@@ -7,13 +7,15 @@ This activity fulfills the user’s basic need for food because they can learn t
 ### What is(are) the traditional/current solution(s) to satisfy the needs?
 There are currently recipe books and online recipe websites.
 ### What is(are) the limitation(s) that possibly would be improved with (digital) technology?
-When looking up recipes in books or websites, you usually find the recipe first and buy the ingredients. Digital technology can add the feature of looking up recipes through ingredients so that one can explore new meals with what ingredients they already have.
+When looking up recipes in books or websites, you may not have all the ingredients that are required for the recipe. This may cause people to be unable to make the dish or require them to go on grocery run. Digital technology can add the feature of looking up recipes through ingredients so that one can explore new meals with what ingredients they already have.
 
 ## Step02: Target users 
 ### What are the characteristics of users? (ex. demographics, preference, expertise) 
-Demographic: Working adults, college students
-Preference: Wants to save money, Looks for convenience
-Expertise: Can cook
+Demographic: Working middle-aged woman who has children
+
+Preference: Looks for convenience, Cares about not wasting food, Wants to save money
+
+Expertise: Can/likes to cook
 ### Where would the users do that activity? (i.e., context of use)
 Users will most likely be searching for recipes in the kitchen near the refrigerator to see what they already have. If they already marked what they have, they could be anywhere searching for recipes.
 ### What would the users do to complete that activity? (e.g., goal, operation, method, action)
@@ -43,8 +45,8 @@ Here is the recording video of the interview and participatory observation. [Cli
 - **User's response when she struggles to think of dishes with refrigerator items** (19:13) :"I kind of give up looking for a recipe and just cook whatever I can and do like a blind taste look, blind taste test to see if it tastes good, because at this point I feel like it's really hard to find like a certain recipe to cook off from." "I am very lazy when it comes to [running to the grocery store to get missing ingredients]"
 - **The user's ranking of finding a recipe** (20:19) : " 8... Because I'm someone who really likes to follow the rules. Like I'm kind of conventional in a way that I like having steps that I can follow. And I know for sure that this dish will be a success because that way I know like, Oh, my ingredients and money aren't going to waste."
 
-## Step06: Relfection
-The contextual inquiry was super insightful, as it allowed me to observe the user naturally as they did a task that they do in their daily life. This is unlike the usability test, where I gave them very specific tasks to do, which made it feel less natural. From the observation and interview, a lot of the findings aligned with my own ideas, such as busy individuals valuing conveniency and finding recipes using ingredients in their fridge instead of running to the grocery store everytime they're missing ingredients. 
+## Step06: Reflection
+The contextual inquiry was super insightful, as it allowed me to observe the user naturally as they did a task that they do in their daily life. This is unlike the usability test, where I gave them very specific tasks to do, which made it feel less natural. From the observation and interview, a lot of the findings aligned with my own ideas, such as busy individuals valuing conveniency and finding recipes using ingredients in their fridge instead of running to the grocery store everytime they're missing ingredients. Some findings did surprise me though, such as the user's ranking of the importance of finding a recipe. This is probably because I personally don't use recipes as much, so it was nice to know that a recipe platform is pretty important to busy individuals.
 However, my participant was the same user for my usability test, which may have caused bias because they knew about what I was working on. I chose to use the same person because I believed that she aligned more with the target audience as someone who is working and busy but wants to cook. 
 
 
