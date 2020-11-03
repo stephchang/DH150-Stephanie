@@ -32,7 +32,7 @@ Here is the interview script. [Click here to access the script.](https://docs.go
 ## Step05: Conducting the Research
 Here is the transcription of the interview and participatory ovservation. [Click here to access transcription.](https://drive.google.com/file/d/1kLHV-QficGvLWPEDz-IagFpzoI4yd2Bq/view?usp=sharing)
 
-Here is the recording video of the interview and participatory observation. [Click here to access recording of video.] (https://drive.google.com/file/d/1azUsnPO9xbbrs-OguVfbfQc9fO5n6AGR/view?usp=sharing)
+Here is the recording video of the interview and participatory observation. [Click here to access recording of video.](https://drive.google.com/file/d/1azUsnPO9xbbrs-OguVfbfQc9fO5n6AGR/view?usp=sharing)
 
 ### Here are some insights from the interview:
 - **User's reason for choosing one recipe over the other** (6:36): "I definitely look at the photos. If the photos are like aesthetically pleasing, I'll definitely choose that  one over another, like really low quality photo because personally, I, I like, I, I prefer like seeing like, well done photos to get my recipes from and also how well the recipe is written because there's sometimes there's ones where the steps are very vague and I feel like that doesn't help me cook. So definitely something more detailed."
