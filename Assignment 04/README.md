@@ -1,7 +1,7 @@
 # Assignment 04: Users in context
 ## Step 01: Specify the main design challenge 
 ### What is the main activity your project would support the users’ needs?
-My project would help users in finding recipes with food already in their refrigerator, reducing food waste and making cooking easier.
+My project would help users in finding recipes with food already in their refrigerator, reducing food waste and increasing convenience.
 ### What is the basic need involved for that activity? (reference)
 This activity fulfills the user’s basic need for food because they can learn to make meals with the website. 
 ### What is(are) the traditional/current solution(s) to satisfy the needs?
