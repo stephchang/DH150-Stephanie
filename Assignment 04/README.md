@@ -24,7 +24,7 @@ The goal of the activity is to cook a meal with ingredients the user already has
 ## Step03: Pick research methods (or a combination of methods) 
 ### Method
 - I decided to use participatory observation and interview.
-- For participatory observation, I observed finding a recipe. 
+- For participatory observation, I observed finding a recipe. Because the partcipant hadn't eaten yet, I just had the participant let me observe and ask questions as she found a recipe she wanted to make.
 - This observation and interview was conducted via Zoom, with the user in their own home at their desk. 
 - I used my laptop and recorded on Zoom to record the user task.
 
