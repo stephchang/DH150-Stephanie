@@ -9,7 +9,7 @@
 <img src="/MaryPersona.png" width="100%">
 
 ### Persona 2: Kevin Lee
-<img src="KevinPersona.png" width="100%">
+<img src="/KevinPersona.png" width="100%">
 
 ## User Scenarios and Journey Maps
 ### Mary Poppin's Scenario
