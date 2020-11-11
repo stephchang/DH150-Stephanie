@@ -6,10 +6,10 @@
 
 ## Personas & Empathy Map
 ### Persona 1: Mary Poppins
-<img src="/Facebook Cover - 1.png" width="100%">
+<img src="/MaryPersona.png" width="100%">
 
 ### Persona 2: Kevin Lee
-<img src="/Facebook Cover - 2.png" width="100%">
+<img src="KevinPersona.png" width="100%">
 
 ## User Scenarios and Journey Maps
 ### Mary Poppin's Scenario
@@ -21,6 +21,11 @@ Mary is a mother of two and wants to do the most to make her kids happy and heal
 
 To cook breakfast, Mary turns on her personal laptop and goes onto the SuperCook site. She opens her fridge and looks at all the ingredients she has. She has chicken breasts, american cheese, onions, green beans, spinach, ground beef, flour, sugar, potato, vegetable oil, and olive oil. She goes through the categories of ingredients to marks all the ingredients she has in her fridge. As she marks the ingredients, the page refreshes to show the recipe of dishes she can make. The page shows that she can make 961  dishes with her 11 ingredients. Because she wants to make sure these dishes are suitable for her kids, she clicks on meal type in the top bar. Then, she selects the Kid Friendly option for meal type, which filters her searchs to 58 dishes. Mary is excited to see 58 options she can choose from to make a kid-friendly meal. She clicks on the picture of the first one, potato pancakes, which opens a new tab that brings her to the recipe page. She brings out all the ingredients that are required for the recipe and follows the recipe to make the dish. Her dish is a success and she wakes her kids up to eat breakfast. Her kids are delighted to see that it is a new dish and love it. Mary is happy and satisfied that her kids seem to like the new dish she has made. 
 
+**Mary's Journey Map**
+
+<img src="/MaryJourney.png" width="100%">
+
+
 ### Kevin's Scenario
 **Why**
 
@@ -31,3 +36,8 @@ Kevin is a busy Salesman living in the city of New York. He is an adventurous fo
 Kevin plans to go grocery shopping after work tomorrow. He has 15 minutes of free time right now, so he logs onto SuperCook to search for recipes to cook for dinner tomorrow. He marks all the ingredients he currently has: basil, chili sauce, chile powder, coconut flakes, fish sauce, garlic, ground coriander, ground ginger, lime, sugar, and vegetable oil. Because he plans to make dinner, he clicks on meal type and selects Dinner. He wants to make explore the Asian cuisine, so presses on cuisine and selects Asian. Kevin sees that there are recipes on the page which indicates what ingredients he is missing and what ingredients the recipe will use. He is intrigued by the Vietnamese Style Chicken Wings, and sees that he is missing chicken wings. He makes a note on his phone that he has to buy chicken wings when he goes to the grocery store. The next day when he goes to the grocery store, he remembers to buy chicken wings because he knows that he is missing that ingredient at his home to make the Vietnamese Style Chicken Wings. When Kevin arrives home, he is happy to see that he has all the ingredients in order to make the Vietnamese Style Chicken Wings. He cooks the dish and is satisfied that he tried a new dish of Vietnamese Culture.
 
 He had looked a recipe for Thai Coconut Fish and wanted to make that recipe. He realizes that he did not buy coconut milk, which is an essential part of the recipe. This means that he cannot make the Thai Coconut Fish dish. Kevin still hopes to make a new cuisine dish. Using the desktop she he has at home, he goes onto the SuperCook site. He marks all the ingredients he bought from the grocery store in the categories. 
+
+**Kevin's Journey Map**
+
+<img src="/KevinJourney.png" width="100%">
+
