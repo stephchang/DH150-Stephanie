@@ -5,6 +5,9 @@
 - Allows the team to design a product that focuses on the user
 
 ## Personas & Empathy Map
+### Persona 1: Mary Poppins
 <img src="/Facebook Cover - 1.png" width="100%">
+
+### Persona 2: Kevin Lee
 <img src="/Facebook Cover - 2.png" width="100%">
 
