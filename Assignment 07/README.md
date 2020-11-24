@@ -49,7 +49,9 @@ I played with the colors and fonts to see which I liked better. I looked into co
 
 
 ## Accessibility check
+
 <img src="/SupercookAccessibility.png" width="33%"> <img src="/SupercookAccessibility-2.png" width="33%"> <img src="/SupercookAccessibility-3.png" width="33%">
+
 I checked my colors using the Able Figma Plugin, which lets you select layers to compare their color contrast. I saw that all my colors passed the AA test, which was good.
 
 
