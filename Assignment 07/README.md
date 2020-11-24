@@ -54,23 +54,6 @@ I played with the colors and fonts to see which I liked better. I looked into co
 
 I checked my colors using the Able Figma Plugin, which lets you select layers to compare their color contrast. I saw that all my colors passed the AA test, which was good.
 
-<html>
-  <head>
-    <style>
-      #content {
-        width: 800px;
-        margin: auto;
-        height: 100%;
-        display: flex;
-        align-items: center;
-      }
-    </style>
-  </head>
-  <body>
-    <div id="content">
-      <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FOefqXNqoYFG62iZ4KS0Q0s%2FSuperCook%3Fnode-id%3D24%253A581%26scaling%3Dscale-down" allowfullscreen></iframe>
-    </div>
-  </body>
-</html>
+https://www.figma.com/proto/OefqXNqoYFG62iZ4KS0Q0s/SuperCook?node-id=24%3A581&scaling=scale-down
 
 
