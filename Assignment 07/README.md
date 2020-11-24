@@ -40,7 +40,7 @@ I played with the colors and fonts to see which I liked better. I looked into co
 
 ### Quotes & Insights
 - "My first impression of the site is that it's very clean, bright, and friendly."
-- "[I] Can tell that it's a site used to find ingredients that you want to use or save"
+- "[I] can tell that it's a site used to find ingredients that you want to use or save"
 - "Photos used for each recipe makes me understand what the food would look like...very professional looking."
 - "Not intimidating at all."
 - "Font is easy to read."
@@ -48,6 +48,8 @@ I played with the colors and fonts to see which I liked better. I looked into co
 - "Something I would want to use."
 
 
-
-
 ## Accessibility check
+<img src="/SupercookAccessibility.png" width="33%"> <img src="/SupercookAccessibility-2.png" width="33%"> <img src="/SupercookAccessibility-3.png" width="33%">
+I checked my colors using the Able Figma Plugin, which lets you select layers to compare their color contrast. I saw that all my colors passed the AA test, which was good.
+
+
