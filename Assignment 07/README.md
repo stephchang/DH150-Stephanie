@@ -2,8 +2,18 @@
 
 ## Project Description
 ### Summary
+
+The current project aims to help users in finding recipes with food already in their refrigerator, reducing food waste and increasing convenience.
+
 ### Purpose & Process
+
+The prototype was created with Figma. I started the project by creating low fidelity wireframes and mapping out where each component should be based off of my wireframe sketches, and made changes according to the test I conducted then. Then, I copied three main screens and put different colors and fonts onto them in order to see what style fits better with the website branding. 
+
 ### Tasks
+- Filter bar
+
+- Ingredient search bar
+- Grocery List
 
 ## Graphic Design
 
@@ -54,6 +64,14 @@ I played with the colors and fonts to see which I liked better. I looked into co
 
 I checked my colors using the Able Figma Plugin, which lets you select layers to compare their color contrast. I saw that all my colors passed the AA test, which was good.
 
-https://www.figma.com/proto/OefqXNqoYFG62iZ4KS0Q0s/SuperCook?node-id=24%3A581&scaling=scale-down
+## Interactive Prototype
+[Link to Prototype](https://www.figma.com/proto/OefqXNqoYFG62iZ4KS0Q0s/SuperCook?node-id=24%3A581&scaling=scale-down)
+
+## Wireflow 
+
+## Cognitive Walkthrough
+
+## Reflection
+
 
 
