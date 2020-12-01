@@ -95,6 +95,7 @@ Key Findings:
 
 ## Reflection
 Creating the high-fidelity prototype was incredibly rewarding, watching what I've been working on the whole quarter become a clickable prototype and have users interact with it like a real site. Because each detail and feature was added or edited with research and thought behind it, I was pretty happy with the prototype I ended up with. Additionally, the cognitive walkthrough was helpful, as people I didn't know commented and tested my site, so I know that it isn't biased. 
+Through this project, I learned a lot about the UXUI process. There were so much more than I thought there was to it and found the process enjoyable!
 
 
 
