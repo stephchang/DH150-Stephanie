@@ -6,14 +6,26 @@
 The current project aims to help users in finding recipes with food already in their refrigerator, reducing food waste and increasing convenience.
 
 ### Purpose & Process
+This high fidelity prototype is created so I can test how the SuperCook site would function. Through the test, I can examine if the three features I edited/added based on the personas are functional and intuitive. 
 
-The prototype was created with Figma. I started the project by creating low fidelity wireframes and mapping out where each component should be based off of my wireframe sketches, and made changes according to the test I conducted then. Then, I copied three main screens and put different colors and fonts onto them in order to see what style fits better with the website branding. 
+The prototype was created with Figma. I started the project by creating low fidelity wireframes and mapping out where each component should be based off of my wireframe sketches, and made changes according to the test I conducted then. Then, I copied three main screens and put different colors and fonts onto them in order to see what style fits better with the website branding. After choosing the colors and fonts I wanted, I added interactions and tried them out on a separate screen to make sure the flow makes sense.
 
 ### Tasks
-- Filter bar
+Ingredient search bar: 
+- Use ingredient search bar to search for ingredient
+- Select ingredient to find recipe 
+- Find recipe that has ingredient in it 
 
-- Ingredient search bar
-- Grocery List
+Filter bar: 
+- Find filter bar to narrow down searches
+- Filter age to toddler
+- Find a recipe that is suitable for toddlers
+
+Grocery List: 
+- Look for recipes you may want to cook
+- Check if there's ingredients you're missing
+- Add missing ingredient to your grocery list
+- Check grocery list 
 
 ## Graphic Design
 
@@ -68,10 +80,21 @@ I checked my colors using the Able Figma Plugin, which lets you select layers to
 [Link to Prototype](https://www.figma.com/proto/OefqXNqoYFG62iZ4KS0Q0s/SuperCook?node-id=24%3A581&scaling=scale-down)
 
 ## Wireflow 
+<img src="/SupercookWireflow.png" width="100%">
 
 ## Cognitive Walkthrough
+[Cognitive Walkthrough Document](https://docs.google.com/document/d/1jap2i_wkd2i340k4p43OOOBoB6nGN5NQUotdoGgmbo0/edit)
+
+Key Findings:
+- People seemed to know what site is about right away 
+- Good comment on the colors
+- Having two searches may be confusing to user
+- Consider a wider range for age filter
+- Add search icon
+- Keep searched ingredient when you go back to homepage (changed on wireflow!)
 
 ## Reflection
+Creating the high-fidelity prototype was incredibly rewarding, watching what I've been working on the whole quarter become a clickable prototype and have users interact with it like a real site. Because each detail and feature was added or edited with research and thought behind it, I was pretty happy with the prototype I ended up with. Additionally, the cognitive walkthrough was helpful, as people I didn't know commented and tested my site, so I know that it isn't biased. 
 
 
 
