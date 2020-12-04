@@ -60,9 +60,9 @@ After refining my wireframes, I conducted a wireflow test to make sure that the 
 
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
-After making sure that the user understood the interaction flow, I started digitalizing my sketches, first from low-fidelity to high-fidelity. 
+After making sure that the user understood the interaction flow, I started digitalizing my sketches, first from low-fidelity to high-fidelity. The prototype was created with Figma. I started the project by creating low fidelity wireframes and mapping out where each component should be based off of my wireframe sketches, and made changes according to the test I conducted then. Then, I copied three main screens and put different colors and fonts onto them in order to see what style fits better with the website branding. After choosing the colors and fonts I wanted, I added interactions and tried them out on a separate screen to make sure the flow makes sense.
 
-Now that I had developed a better sense of the interaction flow of my prototype, I turned my attention to the high-fidelity aspects of my design. Through Figma, I refined and brought my low-fidelity interface to life by adding color, interaction features, dynamic elements, and other graphical interface components. I was sure to make the interaction flow completely circular with no dead ends and paid particular attention to making navigation simple and intuitive. Below are the four main high-fidelity menu interfaces.
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FOefqXNqoYFG62iZ4KS0Q0s%2FSuperCook%3Fnode-id%3D24%253A581%26scaling%3Dmin-zoom" allowfullscreen></iframe>
 
 
 ## Optional evaluation and revision history 
