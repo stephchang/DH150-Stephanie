@@ -10,11 +10,19 @@ Many individuals are busy and may not have time or energy to go grocery shop oft
 
 This led me to ask: *How might we design a platform that assists busy individuals in finding recipes with ingredients they have?*
 
-
+SuperCook aims to help individuals in finding recipes just for them with ingredients already in their refrigerator, increasing convenience and efficiency. 
 
 
 ## Competitor analysis [assignment01 & 02]:
-Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
+
+I conducted a heuristics evaluation of the SuperCook website and the MyFridgeFood website, using Jakob Nielson's 10 heuristics. By looking at these two websites, I was able to analyze the user experience of the sites and pick out the flaws.With the SuperCook website, I found that the main problems of the site were with user control and freedom, consistency, and the aesthetic design of the page. With the MyFridgeFood site, the flexibility and efficiency of use and the aesthetic design were the main problems.
+
+[Read more about my heuristic evaluation here.](https://github.com/stephchang/DH150-Stephanie/tree/main/Assignment%2001)
+
+[Check out the Supercook site here.](https://www.supercook.com/)
+[Check out the MyFridgeFood site here.](https://myfridgefood.com/)
+
+<img src="https://stephchang.github.io/DH150-Stephanie/supercook.png" width="46%"> <img src="https://stephchang.github.io/DH150-Stephanie/myfridgefood.png" width="40%">
 
 ## User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
