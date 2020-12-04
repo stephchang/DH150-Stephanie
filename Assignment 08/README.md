@@ -20,6 +20,7 @@ I conducted a heuristics evaluation of the SuperCook website and the MyFridgeFoo
 [Read more about my heuristic evaluation here.](https://github.com/stephchang/DH150-Stephanie/tree/main/Assignment%2001)
 
 [Check out the Supercook site here.](https://www.supercook.com/)
+
 [Check out the MyFridgeFood site here.](https://myfridgefood.com/)
 
 <img src="https://stephchang.github.io/DH150-Stephanie/supercook.png" width="46%"> <img src="https://stephchang.github.io/DH150-Stephanie/myfridgefood.png" width="40%">
