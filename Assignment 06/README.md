@@ -23,7 +23,7 @@ After wireframing, I conducted a test with a friend to see the wireflow made sen
 - [Video of task #2: Ingredient Search Bar](https://drive.google.com/file/d/1NoIU7e1_3ums4mgcDPM-GdOF8mvPhtnL/view?usp=sharing)
 - [Video of task #3: Grocery List](https://drive.google.com/file/d/1yLdO2O9sUnrmj7G2Af_2lnF4M_1ICjO6/view?usp=sharing)
 
-<img src="/wireflowtesting.png" width="100%">
+<img src="https://stephchang.github.io/DH150-Stephanie/wireflowtesting.png" width="100%">
 
 ### Takeaways
 - **Task #1** : The user noticed both find recipes and popular recipes, but decided to click "see all" for the find recipes. Because she considered both of them, it made me think about changing how the starting page looked so users won't be confused at first between the two when searching up ingredients. For the filter bar itself, the user found the bar and age filter fast and selected the toddler option in order to find kid-friendly meals.
