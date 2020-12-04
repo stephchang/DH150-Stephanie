@@ -25,8 +25,19 @@ I conducted a heuristics evaluation of the SuperCook website and the MyFridgeFoo
 
 <img src="https://stephchang.github.io/DH150-Stephanie/supercook.png" width="46%"> <img src="https://stephchang.github.io/DH150-Stephanie/myfridgefood.png" width="40%">
 
+After my own evaluation, in order to confirm them, I conducted a usability test in order to find out how to improve the website from the user's perspective, using certain tasks to see how users navigate the site. The UT tested the effectiveness, efficiency, and satisfaction of the site.
+
+[Check out my User Testing video here](https://drive.google.com/file/d/1PfmqCzE-mH2RRCAKKgwDY6s8f31QM8is/view) or 
+[read more about my User Testing process here.](https://github.com/stephchang/DH150-Stephanie/tree/main/Assignment%2002)
+
+
+
 ## User research [contextual inquiry, assignment04]:
-Summary and link to your assignment folder
+
+In order to better understand the users, I conducted contextual research. I used two methods: an interview and participatory observation. For this contexual inquiry, I asked the participant to find a recipe they were going to use to prepare their lunch. I learned that users value convenience, giving up on a recipe if they don't have an ingredient for it instead of running to the grocery store. Additionally, I learned about the importance of ingredients when in comes to choosing recipes, looking at ingredients first when considering different recipes. 
+
+[Check out my interview here](https://drive.google.com/file/d/1azUsnPO9xbbrs-OguVfbfQc9fO5n6AGR/view?usp=sharing) or [read more about my contextual inquiry process here.](https://github.com/stephchang/DH150-Stephanie/tree/main/Assignment%2004)
+
 
 ## UX storytelling [persona+scenario, assignment05]
 Summary and link to your assignment folder
