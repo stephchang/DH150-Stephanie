@@ -40,15 +40,30 @@ In order to better understand the users, I conducted contextual research. I used
 
 
 ## UX storytelling [persona+scenario, assignment05]
-Summary and link to your assignment folder
+In order to empathize with the user and put myself in their shoes, I created user personas, empathy maps, scenarios and journey maps. This way, I was able to gain insight on the user, their behavior, story, and pain points.
 
-## Wireframe and graphic design element variation [assignment06 + part of 07]
+<img src="https://stephchang.github.io/DH150-Stephanie/MaryPersona.png" width="46%"> <img src="https://stephchang.github.io/DH150-Stephanie/MaryJourney.png" width="46%">
+
+[See all the personas and scenarios here.](https://github.com/stephchang/DH150-Stephanie/tree/main/Assignment%2005)
+
 
 ## Low-fidelity prototype (wireflow, assignment06)
-Summary and link to the sketches (may contains the multiple versions and evaluation history)
+To start, I created sketches of the screens and created wireflows of the three features I wanted to focus on: the ingredients search bar, grocery list, and filter. This low-fidelity prototype allowed me to test if the flows made sense and if the features were functional for when people search for recipes using ingredients.
+
+<img src="https://stephchang.github.io/DH150-Stephanie/wireframe.png" width="100%">
+
+After refining my wireframes, I conducted a wireflow test to make sure that the user would be able to follow the flow. From this test, I was able to further reiterate on my prototype to make it more intutive to the user. Below is the marked up photo after the user had tested it.
+
+<img src="https://stephchang.github.io/DH150-Stephanie/wireflowtesting.png" width="100%">
+
+[See the process of creating the low-fidelity prototype here.](https://github.com/stephchang/DH150-Stephanie/tree/main/Assignment%2006)
+
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
-Summary statement and link to or an embedded prototype
+After making sure that the user understood the interaction flow, I started digitalizing my sketches, first from low-fidelity to high-fidelity. 
+
+Now that I had developed a better sense of the interaction flow of my prototype, I turned my attention to the high-fidelity aspects of my design. Through Figma, I refined and brought my low-fidelity interface to life by adding color, interaction features, dynamic elements, and other graphical interface components. I was sure to make the interaction flow completely circular with no dead ends and paid particular attention to making navigation simple and intuitive. Below are the four main high-fidelity menu interfaces.
+
 
 ## Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
