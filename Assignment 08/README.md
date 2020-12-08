@@ -50,22 +50,22 @@ In order to empathize with the user and put myself in their shoes, I created use
 ## Low-fidelity prototype (wireflow, assignment06)
 To start, I created sketches of the screens and created wireflows of the three features I wanted to focus on: the ingredients search bar, grocery list, and filter. This low-fidelity prototype allowed me to test if the flows made sense and if the features were functional for when people search for recipes using ingredients.
 
-<img src="/wireframe.png" width="100%">
+<img src="https://stephchang.github.io/DH150-Stephanie/wireframe.png" width="100%">
 
 After refining my wireframes, I conducted a wireflow test to make sure that the user would be able to follow the flow. From this test, I was able to further reiterate on my prototype to make it more intutive to the user. Below is the marked up photo after the user had tested it.
 
-<img src="/wireflowtesting.png" width="100%">
+<img src="https://stephchang.github.io/DH150-Stephanie/wireflowtesting.png" width="100%">
 
 [See the process of creating the low-fidelity prototype here.](https://github.com/stephchang/DH150-Stephanie/tree/main/Assignment%2006)
 
 ## Wireframe and graphic design element variation
 
-<img src="/Supercookv1-1.png" width="33%"><img src="/Supercookv2-1.png" width="33%"><img src="/Supercookv3-1.png" width="33%">
+<img src="https://stephchang.github.io/DH150-Stephanie/Supercookv1-1.png" width="33%"><img src="https://stephchang.github.io/DH150-Stephanie/Supercookv2-1.png" width="33%"><img src="https://stephchang.github.io/DH150-Stephanie/Supercookv3-1.png" width="33%">
 
 I copied three main screens and played with the colors and fonts to see which I liked better. I looked into color theory to see which colors evoke certain emotions in order to think about the users' emotions when using the site. Thus, I ended up with the red color because red causes feelings of emotion and passion, as well as hunger. I made sure to tone down the red so that it isn't too hard on the eye. I originally chose the Karla typeface, but it had accessibility issues and uneven tracking. Thus, I switched to the Lora typeface in my final prototype, because I felt like it was professional yet friendly. 
 
 
-<img src="/SupercookWireflow.png" width="100%">
+<img src="https://stephchang.github.io/DH150-Stephanie/SupercookWireflow.png" width="100%">
 
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
