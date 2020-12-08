@@ -97,7 +97,15 @@ All of these evaluations allowed me to revise my prototype into the high-fidelit
 
 ## Conclusion: what did you learn throughout the process?
 
-I believe that in the end, I was able to make a prototype of a site that reached the goals that I had in mind, solving problems that my personas had. The whole process took a long time, with intensive research and tests, but through that, I was able to really understand and empathize the with users that would use the site. I got to learn about how to evaluate sites and prototypes through different methods, like heuristic evaluation, cognitive walkthroughs, and usability tests. I was definitely nervous for them, as I was unsure if I was doing them right at first. 
+I believe that in the end, I was able to make a prototype of a site that reached the goals that I had in mind, solving problems that my personas had. 
+
+- **Importance of research and tests:** The whole process took a long time, with intensive research and tests, but through that, I was able to really understand and empathize the with users that would use the site. I got to learn about how to evaluate sites and prototypes through different methods, like heuristic evaluation, cognitive walkthroughs, and usability tests. I was definitely nervous for them, as I was unsure if I was doing them right at first. All the research and tests informed my decisions as I was making the site, so I got to see how important they were in understanding the user. 
+
+- **Efficiency of digital programs:** Through this project, I learned how to use different programs, such as Invision and Figma. I found that it was a lot faster with these to create prototypes, as I was able to copy and paste instead of redrawing the same frame and frame over again. Thus, I learned how powerful and efficient these digital programs are.
+
+- **Check on accessibility:** Previously, I didn't think much about accessibility. However, through this class, I got to see how important it is to make sure that the site will be accessible to everyone. I think that it's pretty easy to forget about color contrast, as text is visible to me personally. However, it is important to make sure that this is the case for anyone who views my site, such as those who may have visual impairment. I learned to use tools to check on accessibility, as I want to make sure that my site is inclusive!
+
 If I were to continue to work on this project, I would definitely do more usability tests to see how different users react to my prototype. Because there are so many different types of users, I want to see if my site addresses the majority's needs. 
+Overall, this project was super rewarding, as I got to design a website from scratch and see the whole process of UI/UX design. I throroughly enjoyed it and believe that I've gained a lot from this project in terms of knowledge and experience with the field. 
 
 
