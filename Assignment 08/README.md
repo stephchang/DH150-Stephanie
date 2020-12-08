@@ -2,20 +2,20 @@
 **Stephanie Chang**
 
 ## Introduction: a brief information about the project. 
-As someone who finds cooking and grocery shopping tedious, I thought about how a site where people can find recipes through ingredients they had would be super useful, especially for busy indviduals. I found that on SuperCook, it allowed users to select ingredients they already have and find recipes for dishes with their ingredients they have. However, I found that the user experience wasn't the most intuitive and pleasant, so I set out to improve the site.
+As someone who finds cooking and grocery shopping tedious, I thought about how a site where people can find recipes through ingredients they had would be super useful, especially for busy indviduals. Many individuals are busy and may not have time or energy to go grocery shop often, such as middle-aged woman who have kids. However, they may still want to try new dishes to cook. Because many sites and websites have you input the dish before looking at what ingredients it uses, this may increase the time that individuals spend searching for recipes they can make.
+
+I found that on SuperCook, it allowed users to select ingredients they already have and find recipes for dishes with their ingredients they have. However, I found that the user experience wasn't the most intuitive and pleasant, so I set out to improve the site. 
 
 
 ## Clear design statement: 
-Many individuals are busy and may not have time or energy to go grocery shop often, such as middle-aged woman who have kids. However, they may still want to try new dishes to cook. Because many sites and websites have you input the dish before looking at what ingredients it uses, this may increase the time that individuals spend searching for recipes they can make.
+For this project, I set out to improve the SuperCook site so that it is more efficient. With the heuristic evaluation, I found that the site had unclear call to actions and was somewhat hard to navigate, which makes the site less convenient and efficient. I wanted to help busy individuals be more efficient when finding their recipes and be able to use the site to increase convenience in their lives. 
 
-This led me to ask: *How might we design a platform that assists busy individuals in finding recipes with ingredients they already have to increase efficiency?*
-
-SuperCook aims to help individuals in finding recipes just for them with ingredients already in their refrigerator, increasing convenience and efficiency. 
+This led me to ask: *How might we redesign the SuperCook site so that it is more efficient and convenient for busy individuals in finding recipes with ingredients they already have?*
 
 
 ## Competitor analysis [assignment01 & 02]:
 
-I conducted a heuristics evaluation of the SuperCook website and the MyFridgeFood website, using Jakob Nielson's 10 heuristics. By looking at these two websites, I was able to analyze the user experience of the sites and pick out the flaws.With the SuperCook website, I found that the main problems of the site were with user control and freedom, consistency, and the aesthetic design of the page. With the MyFridgeFood site, the flexibility and efficiency of use and the aesthetic design were the main problems.
+I conducted a heuristics evaluation of the SuperCook website and the MyFridgeFood website, using Jakob Nielson's 10 heuristics. By looking at these two websites, I was able to analyze the user experience of the sites and pick out the flaws. With the SuperCook website, I found that the main problems of the site were with user control and freedom, consistency, and the aesthetic design of the page. With the MyFridgeFood site, the flexibility and efficiency of use and the aesthetic design were the main problems.
 
 [Read more about my heuristic evaluation here.](https://github.com/stephchang/DH150-Stephanie/tree/main/Assignment%2001)
 
