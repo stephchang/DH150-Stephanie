@@ -101,6 +101,7 @@ After making sure that the user understood the interaction flow, I started digit
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FOefqXNqoYFG62iZ4KS0Q0s%2FSuperCook%3Fnode-id%3D24%253A581%26scaling%3Dmin-zoom" allowfullscreen></iframe>
 
 ## Pitch video 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ICQHpBISLrQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Conclusion: what did you learn throughout the process?
 
