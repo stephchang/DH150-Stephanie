@@ -8,7 +8,7 @@ As someone who finds cooking and grocery shopping tedious, I thought about how a
 ## Clear design statement: 
 Many individuals are busy and may not have time or energy to go grocery shop often, such as middle-aged woman who have kids. However, they may still want to try new dishes to cook. Because many sites and websites have you input the dish before looking at what ingredients it uses, this may increase the time that individuals spend searching for recipes they can make.
 
-This led me to ask: *How might we design a platform that assists busy individuals in finding recipes with ingredients they have?*
+This led me to ask: *How might we design a platform that assists busy individuals in finding recipes with ingredients they already have to increase efficiency?*
 
 SuperCook aims to help individuals in finding recipes just for them with ingredients already in their refrigerator, increasing convenience and efficiency. 
 
