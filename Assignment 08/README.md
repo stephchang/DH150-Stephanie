@@ -52,9 +52,11 @@ To start, I created sketches of the screens and created wireflows of the three f
 
 <img src="https://stephchang.github.io/DH150-Stephanie/wireframe.png" width="100%">
 
-After refining my wireframes, I conducted a wireflow test to make sure that the user would be able to follow the flow. From this test, I was able to further reiterate on my prototype to make it more intutive to the user. Below is the marked up photo after the user had tested it.
+After refining my wireframes, I conducted a wireflow test to make sure that the user would be able to follow the flow. From this test, I was able to further reiterate on my prototype to make it more intutive to the user. Below is the marked up photo after the user had tested it. 
 
 <img src="https://stephchang.github.io/DH150-Stephanie/wireflowtesting.png" width="100%">
+
+The main problems found with this wireflow test were with adding missing ingredients to the grocery list. Thus, I noted to myself to make sure to use visible icons and color to ensure that the user will know what is clickable. Additionally, I wanted to make sure that the Find Recipes Popular Recipes were differentiable. Thus, I changed the wording to Recipes with your ingredients and Today's popular recipes. 
 
 [See the process of creating the low-fidelity prototype here.](https://github.com/stephchang/DH150-Stephanie/tree/main/Assignment%2006)
 
@@ -68,17 +70,11 @@ I copied three main screens and played with the colors and fonts to see which I 
 <img src="https://stephchang.github.io/DH150-Stephanie/SupercookWireflow.png" width="100%">
 
 
-## High-fidelity prototype (functional/interactive prototype, assignment08)
-After making sure that the user understood the interaction flow, I started digitalizing my sketches, first from low-fidelity to high-fidelity. The prototype was created with Figma. I started the project by creating low fidelity wireframes and mapping out where each component should be based off of my wireframe sketches, and made changes according to the test I conducted then. Then, I copied three main screens and put different colors and fonts onto them in order to see what style fits better with the website branding. After choosing the colors and fonts I wanted, I added interactions and tried them out on a separate screen to make sure the flow makes sense.
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FOefqXNqoYFG62iZ4KS0Q0s%2FSuperCook%3Fnode-id%3D24%253A581%26scaling%3Dmin-zoom" allowfullscreen></iframe>
-
-
 ## Optional evaluation and revision history 
 
 In order to continue iterating on my prototype to make sure that it is intuitive and usable, I conducted impression test, cognitive walkthrough, accessibility audit, and usability testing. 
 
-In order to make sure the site is accessbile to everyone, even those with visual impairments, I conducted an accessbility audit to make sure that my colors pass the color contrast test, which they did.
+In order to make sure the site is accessible to everyone, even those with visual impairments, I conducted an accessbility audit to make sure that my colors pass the color contrast test, which they did.
 
 [Check out the accessibility audit here.](https://github.com/stephchang/DH150-Stephanie/tree/main/Assignment%2007)
 
@@ -91,7 +87,12 @@ From the cognitive walkthroughs, users tested the flow of the site. From this, I
 
 [Look at cognitive walkthrough document here.](https://docs.google.com/document/d/1jap2i_wkd2i340k4p43OOOBoB6nGN5NQUotdoGgmbo0/edit)
 
-All of these evaluations allowed me to revise my prototype into the high-fidelity prototype shown above. 
+All of these evaluations allowed me to revise my prototype into the high-fidelity prototype. 
+
+## High-fidelity prototype (functional/interactive prototype, assignment08)
+After making sure that the user understood the interaction flow, I started digitalizing my sketches, first from low-fidelity to high-fidelity. The prototype was created with Figma. I started the project by creating low fidelity wireframes and mapping out where each component should be based off of my wireframe sketches, and made changes according to the test I conducted then. Then, I copied three main screens and put different colors and fonts onto them in order to see what style fits better with the website branding. After choosing the colors and fonts I wanted, I added interactions and tried them out on a separate screen to make sure the flow makes sense.
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FOefqXNqoYFG62iZ4KS0Q0s%2FSuperCook%3Fnode-id%3D24%253A581%26scaling%3Dmin-zoom" allowfullscreen></iframe>
 
 ## Pitch video 
 
