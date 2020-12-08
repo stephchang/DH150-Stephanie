@@ -96,3 +96,8 @@ All of these evaluations allowed me to revise my prototype into the high-fidelit
 ## Pitch video 
 
 ## Conclusion: what did you learn throughout the process?
+
+I believe that in the end, I was able to make a prototype of a site that reached the goals that I had in mind, solving problems that my personas had. The whole process took a long time, with intensive research and tests, but through that, I was able to really understand and empathize the with users that would use the site. I got to learn about how to evaluate sites and prototypes through different methods, like heuristic evaluation, cognitive walkthroughs, and usability tests. I was definitely nervous for them, as I was unsure if I was doing them right at first. 
+If I were to continue to work on this project, I would definitely do more usability tests to see how different users react to my prototype. Because there are so many different types of users, I want to see if my site addresses the majority's needs. 
+
+
