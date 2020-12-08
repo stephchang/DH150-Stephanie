@@ -48,7 +48,16 @@ In order to empathize with the user and put myself in their shoes, I created use
 
 
 ## Low-fidelity prototype (wireflow, assignment06)
-To start, I created sketches of the screens and created wireflows of the three features I wanted to focus on: the ingredients search bar, grocery list, and filter. This low-fidelity prototype allowed me to test if the flows made sense and if the features were functional for when people search for recipes using ingredients.
+To start, I created sketches of the screens and created wireflows of the three features I wanted to focus on:
+
+- Ingredients search bar: Clear and easily accessible search bar for users to add ingredients efficiently 
+
+- Filter: Obvious filter that has clear filter categories
+
+- Grocery list: Allows users to add missing ingredients into a list
+
+
+This low-fidelity prototype allowed me to test if the flows made sense and if the features were functional for when people search for recipes using ingredients.
 
 <img src="https://stephchang.github.io/DH150-Stephanie/wireframe.png" width="100%">
 
