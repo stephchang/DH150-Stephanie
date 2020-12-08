@@ -2,7 +2,7 @@
 **Stephanie Chang**
 
 ## Introduction: a brief information about the project. 
-Super cook is a website where users can select ingredients they already have and find recipes for dishes with their ingredients they have. However, I found that the user experience wasn't the most intuitive and pleasant, so I set out to improve the site.
+As someone who finds cooking and grocery shopping tedious, I thought about how a site where people can find recipes through ingredients they had would be super useful, especially for busy indviduals. I found that on SuperCook, it allowed users to select ingredients they already have and find recipes for dishes with their ingredients they have. However, I found that the user experience wasn't the most intuitive and pleasant, so I set out to improve the site.
 
 
 ## Clear design statement: 
