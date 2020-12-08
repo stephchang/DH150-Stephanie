@@ -25,7 +25,7 @@ I conducted a heuristics evaluation of the SuperCook website and the MyFridgeFoo
 
 <img src="https://stephchang.github.io/DH150-Stephanie/supercook.png" width="46%"> <img src="https://stephchang.github.io/DH150-Stephanie/myfridgefood.png" width="40%">
 
-After my own evaluation, in order to confirm them, I conducted a usability test in order to find out how to improve the website from the user's perspective, using certain tasks to see how users navigate the site. The UT tested the effectiveness, efficiency, and satisfaction of the site.
+After my own evaluation, in order to confirm them, I conducted a usability test in order to find out how to improve the website from the user's perspective, using certain tasks to see how users navigate the site. The UT tested the effectiveness, efficiency, and satisfaction of the site. The UT confirmed my findings, with the user having a hard time navigating the site at times.
 
 [Check out my User Testing video here](https://drive.google.com/file/d/1PfmqCzE-mH2RRCAKKgwDY6s8f31QM8is/view) or 
 [read more about my User Testing process here.](https://github.com/stephchang/DH150-Stephanie/tree/main/Assignment%2002)
@@ -52,16 +52,13 @@ To start, I created sketches of the screens and created wireflows of the three f
 
 - Ingredients search bar: Clear and easily accessible search bar for users to add ingredients efficiently 
 
-- Filter: Obvious filter that has clear filter categories
+- Filter: Obvious filter that has clear filter categories so users can narrow down their search and find what their looking for in a faster manner
 
-- Grocery list: Allows users to add missing ingredients into a list
-
-
-This low-fidelity prototype allowed me to test if the flows made sense and if the features were functional for when people search for recipes using ingredients.
+- Grocery list: Allows users to add missing ingredients into a list so they can conveniently pull up the list when they're at the grocery store, allowing them to remember what ingredients they need to buy
 
 <img src="https://stephchang.github.io/DH150-Stephanie/wireframe.png" width="100%">
 
-After refining my wireframes, I conducted a wireflow test to make sure that the user would be able to follow the flow. From this test, I was able to further reiterate on my prototype to make it more intutive to the user. Below is the marked up photo after the user had tested it. 
+After refining my wireframes, I conducted a wireflow test to make sure that the user would be able to follow the flow. This low-fidelity prototype allowed me to test if the flows made sense and if the features were functional. From this test, I was able to further reiterate on my prototype to make it more intutive to the user. Below is the marked up photo after the user had tested it. 
 
 <img src="https://stephchang.github.io/DH150-Stephanie/wireflowtesting.png" width="100%">
 
