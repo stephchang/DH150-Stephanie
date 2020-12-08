@@ -50,13 +50,22 @@ In order to empathize with the user and put myself in their shoes, I created use
 ## Low-fidelity prototype (wireflow, assignment06)
 To start, I created sketches of the screens and created wireflows of the three features I wanted to focus on: the ingredients search bar, grocery list, and filter. This low-fidelity prototype allowed me to test if the flows made sense and if the features were functional for when people search for recipes using ingredients.
 
-<img src="https://stephchang.github.io/DH150-Stephanie/wireframe.png" width="100%">
+<img src="/wireframe.png" width="100%">
 
 After refining my wireframes, I conducted a wireflow test to make sure that the user would be able to follow the flow. From this test, I was able to further reiterate on my prototype to make it more intutive to the user. Below is the marked up photo after the user had tested it.
 
-<img src="https://stephchang.github.io/DH150-Stephanie/wireflowtesting.png" width="100%">
+<img src="/wireflowtesting.png" width="100%">
 
 [See the process of creating the low-fidelity prototype here.](https://github.com/stephchang/DH150-Stephanie/tree/main/Assignment%2006)
+
+## Wireframe and graphic design element variation
+
+<img src="/Supercookv1-1.png" width="33%"><img src="/Supercookv2-1.png" width="33%"><img src="/Supercookv3-1.png" width="33%">
+
+I copied three main screens and played with the colors and fonts to see which I liked better. I looked into color theory to see which colors evoke certain emotions in order to think about the users' emotions when using the site. Thus, I ended up with the red color because red causes feelings of emotion and passion, as well as hunger. I made sure to tone down the red so that it isn't too hard on the eye. I originally chose the Karla typeface, but it had accessibility issues and uneven tracking. Thus, I switched to the Lora typeface in my final prototype, because I felt like it was professional yet friendly. 
+
+
+<img src="/SupercookWireflow.png" width="100%">
 
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
@@ -66,7 +75,23 @@ After making sure that the user understood the interaction flow, I started digit
 
 
 ## Optional evaluation and revision history 
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+
+In order to continue iterating on my prototype to make sure that it is intuitive and usable, I conducted impression test, cognitive walkthrough, accessibility audit, and usability testing. 
+
+In order to make sure the site is accessbile to everyone, even those with visual impairments, I conducted an accessbility audit to make sure that my colors pass the color contrast test, which they did.
+
+[Check out the accessibility audit here.](https://github.com/stephchang/DH150-Stephanie/tree/main/Assignment%2007)
+
+
+The impression test was used to test the first impressions users have of the site, seeing how they feel about it and if they understand the purpose of the site. From my impression test, I found that the purpose of it was easily identified, engaging and friendly, and easy to read. 
+
+[Listen to impression test audio here.](https://drive.google.com/file/d/15HcZ-nrOBvFgcA68gCY-Tb9Org8ImGSL/view?usp=sharing)
+
+From the cognitive walkthroughs, users tested the flow of the site. From this, I found that people also knew what the site is about right away and liked the colors. Users also gave some useful critiques, like how I should consider not just children for the age filter, add search icon on search bar so that it's more recognizable right away, and how the searched ingredient dissappears when going back to homepage, messing up the flow.
+
+[Look at cognitive walkthrough document here.](https://docs.google.com/document/d/1jap2i_wkd2i340k4p43OOOBoB6nGN5NQUotdoGgmbo0/edit)
+
+All of these evaluations allowed me to revise my prototype into the high-fidelity prototype shown above. 
 
 ## Pitch video 
 
